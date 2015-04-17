@@ -1,3 +1,5 @@
+FORK: Knihovna původního projektu https://github.com/xrosecky/JAVA_ISDS upravena tak, aby nevyžadovala pouze Oracle JDK.
+
 JAVA_ISDS - multiplatformní knihovna v Javě pro přístup k ISDS (informačnímu
 systému datových schránek).
 
