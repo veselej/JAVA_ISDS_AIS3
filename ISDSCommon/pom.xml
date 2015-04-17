@@ -5,11 +5,11 @@
   <parent>
     <artifactId>JAVA_ISDS</artifactId>
     <groupId>cz.abclinuxu.datoveschranky</groupId>
-    <version>1.0-ais3</version>
+    <version>1.0.1-ais3</version>
   </parent>
   <groupId>cz.abclinuxu.datoveschranky</groupId>
   <artifactId>ISDSCommon</artifactId>
-  <version>1.0-ais3</version>
+  <version>1.0.1-ais3</version>
   <name>ISDSCommon</name>
   <url>http://maven.apache.org</url>
   <build>

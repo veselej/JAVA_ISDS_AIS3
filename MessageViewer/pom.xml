@@ -5,18 +5,18 @@
   <parent>
     <artifactId>JAVA_ISDS</artifactId>
     <groupId>cz.abclinuxu.datoveschranky</groupId>
-    <version>1.0-ais3</version>
+    <version>1.0.1-ais3</version>
   </parent>
   <groupId>cz.abclinuxu.datoveschranky</groupId>
   <artifactId>MessageViewer</artifactId>
-  <version>1.0-ais3</version>
+  <version>1.0.1-ais3</version>
   <name>MessageViewer</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>cz.abclinuxu.datoveschranky</groupId>
       <artifactId>ISDS</artifactId>
-      <version>1.0-ais3</version>
+      <version>1.0.1-ais3</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
